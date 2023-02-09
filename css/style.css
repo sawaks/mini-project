@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+  margin: 0;
+  font-weight: normal;
+  color: #22577e;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header .container {
+  background-color: pink;
+  text-align: center;
+}
+header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header ul li {
+  display: inline;
+}
+
+.hero {
+  text-align: center;
+}
+.hero img {
+  width: 60%;
+  height: auto;
+}
+
+footer {
+  background-color: pink;
+  text-align: center;
+}
